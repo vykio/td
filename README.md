@@ -28,3 +28,13 @@ To generate the binary file and
 ```shell
 ./td -del <nth>
 ```
+
+# Todo
+
+- [ ] Refactor the code
+- [ ] Add compact flags
+- [ ] Create tests
+- [ ] Add filters
+- [ ] Dockerize the app for development
+- [ ] Add history
+- [ ] Create a web interface
